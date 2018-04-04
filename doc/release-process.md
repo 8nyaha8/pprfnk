@@ -2,7 +2,7 @@ Release Process
 ====================
 
 * update translations (ping wumpus, Diapolo or tcatm on IRC)
-* see https://github.com/dashpay/dash/blob/master/doc/translation_process.md#syncing-with-transifex
+* see https://github.com/8nyaha8/pprfnk/blob/master/doc/translation_process.md#syncing-with-transifex
 
 * * *
 
